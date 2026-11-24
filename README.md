@@ -1,8 +1,8 @@
 # Orbit Shop: a small online store
 
-A demo storefront: browse products, build a cart, check out, get an order confirmation. It is the shop side of the "Orbit" pair; the back office is [Orbit Admin](https://github.com/abdoshawky1/orbit-admin).
+A demo storefront: browse products, build a cart, check out, get an order confirmation. It is the shop side of the "Orbit" pair; the back office is [Orbit Admin](https://github.com/abdoshawky1/orbit-admin) ([live](https://orbit-admin-cyan.vercel.app)).
 
-**Live demo:** _add link after deploy_
+**Live demo:** https://orbit-shop-one.vercel.app
 
 ![Shop](docs/shop.png)
 ![Cart](docs/cart.png)
