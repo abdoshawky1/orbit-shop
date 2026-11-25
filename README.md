@@ -30,7 +30,7 @@ A demo storefront: browse products, build a cart, check out, get an order confir
 
 - **No backend.** Cart, stock and orders are in localStorage, so nothing is shared between devices or users. A real shop needs an API and a database, and stock must be checked on the server.
 - **No online payment.** Checkout is cash on delivery on purpose: the demo never asks for card details. Real payments would go through a provider such as Stripe, never through my own form.
-- **Product images are emoji tiles**, not photos.
+- **Product images are coloured tiles with simple SVG icons**, not photos.
 - **Promo codes are checked in the browser**, so anyone can read them. Real codes are validated on a server.
 - **Next:** order history page, product reviews, a real backend, and component tests (only the logic is tested now).
 
